@@ -3,6 +3,8 @@ content_type: page
 description: This syllabus section provides the course description and information
   on meeting times, prerequisites, format, objectives, grading, and the schedule of
   lecture topics and assignments.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -158,7 +160,7 @@ Written Assignment due
 Field Trip
 {{< tdclose >}}
 {{< tdopen >}}
-Field Trip to the {{% resource_link "2857f488-fac4-4678-bb51-01374a6aa39d" "Cambridge Water Treatment Facility at Fresh Pond" %}}
+Field Trip to the [Cambridge Water Treatment Facility at Fresh Pond](https://www.cambridgema.gov/Water/freshpondreservation)
 {{< tdclose >}}
 
 {{< trclose >}}

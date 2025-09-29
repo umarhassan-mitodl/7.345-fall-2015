@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: This section provides summaries of the weekly course lectures.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -43,7 +45,7 @@ LECTURE SUMMARIES
 ### Optional
 
 Watch a video about antibiotics  
-Strong Medicine. "{{% resource_link "72453a8c-e0ae-476d-9625-80e5fc209b4e" "Mechanisms and Classification of Antibiotics" %}}". January 19, 2013. YouTube.
+Strong Medicine. "[Mechanisms and Classification of Antibiotics](https://www.youtube.com/watch?v=NGwP471sehI)". January 19, 2013. YouTube.
 
 
 {{< tdclose >}}
@@ -64,12 +66,12 @@ Organisms competing for limited resources can lead to the evolution of defensive
 ### Optional
 
 Watch a video that explains penicillin mode of action  
-Mechanisms in Medicine. "{{% resource_link "4569902e-ae58-401d-94f8-cb06c24cf550" "ß-lactams: Mechanisms of Action and Resistance" %}}." March 29, 2011. YouTube.
+Mechanisms in Medicine. "[ß-lactams: Mechanisms of Action and Resistance](https://www.youtube.com/watch?v=qBdYnRhdWcQ)." March 29, 2011. YouTube.
 
-A short biography of Alexander Fleming and his experience with "{{% resource_link "56fe42d3-c558-4d5a-9a9a-65683667753c" "Germ Painting" %}}"
+A short biography of Alexander Fleming and his experience with "[Germ Painting](http://www.smithsonianmag.com/science-nature/painting-with-penicillin-alexander-flemings-germ-art-1761496/?no-ist)"
 
 Time-lapse microscopy video of penicillin-treated bacteria  
-ICaMB NCL. "{{% resource_link "f545c46c-fd32-4763-99e8-55cb65beb6d0" "Exploding Bacteria with Penicillin" %}}." March 11, 2013. YouTube.
+ICaMB NCL. "[Exploding Bacteria with Penicillin](https://www.youtube.com/watch?v=UjLmf-cVcMw)." March 11, 2013. YouTube.
 
 
 {{< tdclose >}}
@@ -106,7 +108,7 @@ As a result of the emergence of Penicillin-resistant bacteria in the 1940s, the 
 ### Optional
 
 Watch a very short movie about vancomycin mode of action.  
-Medical Charisma Mediators. "{{% resource_link "0a4de2c0-212a-4385-ad5c-06b951c705d0" "Mechanism of Action of Vancomycin" %}}." February 17, 2014. YouTube.
+Medical Charisma Mediators. "[Mechanism of Action of Vancomycin](https://www.youtube.com/watch?v=3P7XBZYeDno)." February 17, 2014. YouTube.
 
 
 {{< tdclose >}}
@@ -143,7 +145,7 @@ Macrolide antibiotics were first discovered in the 1950s when scientists isolate
 ### Optional
 
 Watch a video about mechanism of action of macrolides.  
-Mechanisms in Medicine. "{{% resource_link "a0e8dfe3-a372-4c98-9f0c-1847b45c3e7b" "Macrolides: Mechanisms of Action and Resistance" %}}." March 29, 2011. YouTube.
+Mechanisms in Medicine. "[Macrolides: Mechanisms of Action and Resistance](https://www.youtube.com/watch?v=oC21vLFtsjo)." March 29, 2011. YouTube.
 
 
 {{< tdclose >}}
@@ -164,14 +166,14 @@ Multidrug resistant bacteria or "superbugs" are currently a worldwide public hea
 ### Optional
 
 Watch a video about mechanisms of bacterial resistance.  
-MediCanon. "{{% resource_link "4129b0b3-10fd-4314-8f69-78fb1e0f7e23" "The Animation of Antimicrobial Resistance" %}}." April 8, 2011. YouTube.
+MediCanon. "[The Animation of Antimicrobial Resistance](https://www.youtube.com/watch?v=AYvX8tnCM9s)." April 8, 2011. YouTube.
 
 Watch a video that explains bacteria efflux pumps.  
-عبدالله الجزار. "{{% resource_link "f0ae2110-ac70-4e4b-824c-bcdcbe833247" "Efflux" %}}." August 16, 2009. YouTube.
+عبدالله الجزار. "[Efflux](https://www.youtube.com/watch?v=g9iOkXfTfFM)." August 16, 2009. YouTube.
 
 Watch a video about biofilm analysis using a Flow-cell apparatus.
 
-{{% resource_link "3ce0d6bf-89bc-4c45-895c-a9d825c46c4a" "http://www.jove.com/video/2383/pseudomonas-aeruginosa-saccharomyces-cerevisiae-biofilm-flow" %}}.
+[http://www.jove.com/video/2383/pseudomonas-aeruginosa-saccharomyces-cerevisiae-biofilm-flow](http://www.jove.com/video/2383/pseudomonas-aeruginosa-saccharomyces-cerevisiae-biofilm-flow).
 
 
 {{< tdclose >}}
@@ -187,7 +189,7 @@ Watch a video about biofilm analysis using a Flow-cell apparatus.
 {{< tdopen >}}
 
 
-We will tour the quality control chemistry lab and learn about the water treatment process and the techniques used to monitor water purity and the presence of antibiotics at the {{% resource_link "2857f488-fac4-4678-bb51-01374a6aa39d" "Cambridge Water Treatment Facility at Fresh Pond" %}}.
+We will tour the quality control chemistry lab and learn about the water treatment process and the techniques used to monitor water purity and the presence of antibiotics at the [Cambridge Water Treatment Facility at Fresh Pond](https://www.cambridgema.gov/Water/freshpondreservation).
 
 
 {{< tdclose >}}
@@ -208,7 +210,7 @@ The widespread use of antibiotics for therapeutic and Non-therapeutic applicatio
 ### Optional
 
 Watch a video about development of bacterial resistance in a water treatment plant.  
-American Chemical Society. "{{% resource_link "697a2000-23a5-4e18-8108-7072bd18bed7" "Chlorine Use in Sewage Treatment could Promote Antibiotic Resistance" %}}." March 23, 2015. YouTube.
+American Chemical Society. "[Chlorine Use in Sewage Treatment could Promote Antibiotic Resistance](https://www.youtube.com/watch?v=fa0UmgTWUz8)." March 23, 2015. YouTube.
 
 
 {{< tdclose >}}
@@ -245,7 +247,7 @@ With the continuous rise of Antibiotic-resistant bacteria, new strategies to com
 ### Optional
 
 Watch a video about a new technology, iChip, used to discover novel antibiotics.  
-TomoUSA. "{{% resource_link "740bdd5a-29ac-496e-b828-2db063a62963" "New Powerful Antibiotic Teixobactin Discovered" %}}." January 9, 2015. YouTube.
+TomoUSA. "[New Powerful Antibiotic Teixobactin Discovered](https://www.youtube.com/watch?v=DEWtHcorLnM)." January 9, 2015. YouTube.
 
 
 {{< tdclose >}}
@@ -266,10 +268,10 @@ The discovery of new natural and synthetic antibiotics can lead to treatments fo
 ### Optional
 
 Watch a video about "Miracle Poop".  
-Seeker Stories. "{{% resource_link "1f87e274-ce97-4304-896a-868a7eb71c6d" "How Fecal Transplants Can Save Lives" %}}." March 7, 2015. YouTube.
+Seeker Stories. "[How Fecal Transplants Can Save Lives](https://www.youtube.com/watch?v=i6RBfoITbls)." March 7, 2015. YouTube.
 
 Watch a video that explains the CRISPR-Cas9 system described in Yosef et al.  
-McGovern Institute for Brain Research at MIT "{{% resource_link "e029a8f6-aff8-4c49-91e8-eadd62d4bf20" "Genome Editing with CRISPR-Cas9" %}}." November 5, 2014. YouTube.
+McGovern Institute for Brain Research at MIT "[Genome Editing with CRISPR-Cas9](https://www.youtube.com/watch?v=2pp17E4E-O8)." November 5, 2014. YouTube.
 
 
 {{< tdclose >}}
